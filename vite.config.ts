@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: "/Frontend_battle_R1/", // ✅ GitHub repo name
+  base: "/", // ✅ GitHub repo name
   server: {
     host: true,
     port: 8888,
